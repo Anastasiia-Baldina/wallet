@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1742405053716,
+		"type": "INCOME",
+		"name": "Student fee"
+	},
+	{
+		"id": 1742408344390,
+		"type": "EXPENSE",
+		"name": "Salary"
+	},
+	{
+		"id": 1742408399136,
+		"type": "INCOME",
+		"name": "Grant"
+	},
+	{
+		"id": 1742408531683,
+		"type": "EXPENSE",
+		"name": "Utility"
+	}
+]

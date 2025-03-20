@@ -1,0 +1,14 @@
+- id: 1742457673513
+  type: "INCOME"
+  bankAccountId: 1742404470503
+  amount: 900100
+  date: 1736456400000
+  description: "GenAI"
+  categoryId: 1742408399136
+- id: 1742468581140
+  type: "INCOME"
+  bankAccountId: 1742404470503
+  amount: 850200
+  date: 1738357200000
+  description: "Volkov I."
+  categoryId: 1742405053716

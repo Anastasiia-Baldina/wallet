@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1742404470503,
+		"name": "Sberbank",
+		"balance": 1750300
+	},
+	{
+		"id": 1742404477962,
+		"name": "T-Bank",
+		"balance": 0
+	},
+	{
+		"id": 1742404490417,
+		"name": "Alfabank",
+		"balance": 0
+	},
+	{
+		"id": 1742414350789,
+		"name": "Absolut bank",
+		"balance": 0
+	}
+]
