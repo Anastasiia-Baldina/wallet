@@ -7,7 +7,7 @@ import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 import java.util.List;
 
-public interface CategoryRegistry extends Registry<Category> {
+public interface CategoryRegistry extends Registry {
 
     void insert(Category category);
 

@@ -7,7 +7,7 @@ import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 import java.util.List;
 
-public interface OperationRegistry extends Registry<Operation> {
+public interface OperationRegistry extends Registry {
 
     void insert(Operation operation);
 

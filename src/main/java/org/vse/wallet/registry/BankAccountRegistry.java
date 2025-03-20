@@ -7,7 +7,7 @@ import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 import java.util.List;
 
-public interface BankAccountRegistry extends Registry<BankAccount> {
+public interface BankAccountRegistry extends Registry {
 
     void insert(BankAccount bankAccount);
 
